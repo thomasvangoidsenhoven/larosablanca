@@ -5,7 +5,8 @@
 
 .aboutus_section2
 {
-  margin-top:150px;
+  margin-top:50px;
+  margin-bottom: 50px;
 }
 
 .flex
@@ -31,6 +32,17 @@
 .about_leading_intro
 {
   text-align: center;
+}
+
+.primary_hr
+{
+  max-width: 250px;
+  font-size: 200px;
+  margin: 25px auto 30px;
+  padding: 0;
+  text-align: center;
+  border: none;
+  border-top: solid 4px; }
 }
 
 hr.star-light,
